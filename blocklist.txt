@@ -1,3 +1,3 @@
 ftuapps.io##kbd > div > ins > div
-rphang.men##.ad-container
+##.ad-container
 ##.dp-content

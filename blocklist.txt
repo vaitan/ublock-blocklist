@@ -2,3 +2,4 @@
 ###jsFooterFixBr
 ###__clb-spot_1926112_aol_1
 ##iframe[style*="height: 130px"][style*="border-radius: 10px"]
+##div[style*="z-index: 2147483647 !important"]

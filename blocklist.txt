@@ -3,3 +3,6 @@ ftuapps.io##kbd > div > ins > div
 ##.dp-content
 ##.dp-wrapper
 ##.dp-close
+##.samVideoOverlay
+###jsFooterFixBr
+##iframe

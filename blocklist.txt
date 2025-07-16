@@ -4,3 +4,4 @@
 ##iframe[style*="height: 130px"][style*="border-radius: 10px"]
 ##div[style*="z-index: 2147483647 !important"]
 ##div[style="margin-top: 2px; margin-bottom: -20px; text-align: center;"]
+##div.widget.widget_text.masonry-brick

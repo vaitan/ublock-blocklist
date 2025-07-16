@@ -5,3 +5,4 @@
 ##div[style*="z-index: 2147483647 !important"]
 ##div[style="margin-top: 2px; margin-bottom: -20px; text-align: center;"]
 ##div.widget.widget_text.masonry-brick
+##iframe[sandbox="allow-same-origin allow-forms allow-scripts allow-top-navigation-to-custom-protocols allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"]

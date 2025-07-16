@@ -1,8 +1,2 @@
-ftuapps.io##kbd > div > ins > div
-##.ad-container
-##.dp-content
-##.dp-wrapper
-##.dp-close
 ##.samVideoOverlay
 ###jsFooterFixBr
-##iframe

@@ -7,3 +7,6 @@
 ##div.widget.widget_text.masonry-brick
 ##iframe[sandbox="allow-same-origin allow-forms allow-scripts allow-top-navigation-to-custom-protocols allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"]
 ##.overlay
+##iframe[src="//deputizepacifistwipe.com/check.html"]
+##iframe[src="//flagstonefoundingmonotype.com/check.html"]
+##iframe[src="//citadelexampleruckus.com/check.html"]

@@ -11,3 +11,4 @@
 ##iframe[src="//flagstonefoundingmonotype.com/check.html"]
 ##iframe[src="//citadelexampleruckus.com/check.html"]
 ##iframe[style="border: 0px !important; padding: 0px !important; display: none !important;"]
+##script[data-cfasync="false"]
